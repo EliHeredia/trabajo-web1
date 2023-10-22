@@ -1,6 +1,6 @@
 body {
     
-    background-image: url(/img/fondo1.jpg);
+    background-image: url('https://github.com/EliHeredia/trabajo-web1/blob/main/img/fondo1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
